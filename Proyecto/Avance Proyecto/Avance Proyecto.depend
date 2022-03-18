@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538109557 source:c:\users\oscar arias\music\cristian\tec\análisis y diseños de algorítmos\proyecto\avance proyecto\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+	<map>
+	<cstdlib>
+	<stdio.h>
+
